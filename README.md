@@ -12,13 +12,6 @@
   
 </div>
 
-<div>
-  <ul>
-    <li>🎓Atualmente sou Técnica em desenvolvimento de sistemas.
-    <li>📚Estou estudando JavaScript.
-  </ul>
-
-</div>
 
 
 
